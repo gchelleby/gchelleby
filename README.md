@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chelleby.
 - 👀 I’m interested in app development.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on development projects.
+- 🌱 I’m currently learning at Coding Temple.
 - 📫 How to reach me: by email at gchelleby@gmail.com
 
 <!---
