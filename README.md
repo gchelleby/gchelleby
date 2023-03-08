@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chelleby.
-- 👀 I’m interested in app development.
+- 👋 Hi, I’m Michelle!
+- 👀 I’m interested in Front End Development!
 - 🌱 I’m currently learning at Coding Temple.
 - 📫 How to reach me: by email at gchelleby@gmail.com
 
