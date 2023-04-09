@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Michelle!
-- 👀 I’m interested in Front End Development!
-- 🌱 I’m currently learning at Coding Temple.
-- 📫 How to reach me: by email at gchelleby@gmail.com
+<img src="./githeader.png" alt="Welcome to my GitHub!">
 
-<!---
-gchelleby/gchelleby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Hi, I'm Michelle Green!</h2>
+<h3><em>Front End Developer</h3>
+
+[![Linkedin: michellegreen](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-green-527a27244/)]
+
+### About me:
+:green_heart: I am currently open to career opportunities!
+:green_heart: I have recently studied at Coding Temple, where I learned the technologies displayed below.
+:green_heart: Pronouns: they/them
+
+[![My GitHub Stats] (https://github-readme-stats.vercel.app/api/top-langs?username=gchelleby&theme=algolia&show_icons=true)](https://github.com/gchelleby)
+
+<p>Contact me by [email](mailto:chellegreen99@gmail.com) .</p> 
